@@ -1,6 +1,6 @@
 # Maphangwa-2012-lichens-warming
 
-Data and code for an alternative visualization of the results from Maphangwa et al. (2012).
+Data and code for an alternative visualization of the results from Maphangwa et al. (2012). Data are taken from tables 3, 4, and 5 of the cited paper. The new figure reimagines figure 1 from the cited paper to more clearly show between-treatment and between-season comparisons.
 
 ## Literature Cited
 
